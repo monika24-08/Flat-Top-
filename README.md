@@ -85,3 +85,5 @@ Thus, a Python program for the Construction and Reconctruction of Flat-Top Sampl
 
 
 # Hardware experiment output waveform.
+![WhatsApp Image 2025-05-06 at 11 52 13_e7992c88](https://github.com/user-attachments/assets/84722c35-c8c2-43e5-bfa1-102b2b396318)
+
